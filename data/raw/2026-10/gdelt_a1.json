@@ -1,0 +1,1008 @@
+{
+ "fetched_url": "multiple (see per-entry urls)",
+ "payload": {
+  "budget_exhausted": true,
+  "countries": {
+   "AR": {
+    "es_frontier": {
+     "data": [],
+     "points": 0,
+     "query": "(\"seguridad de la inteligencia artificial\" OR \"riesgos de la inteligencia artificial\") sourcecountry:AR",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22seguridad%20de%20la%20inteligencia%20artificial%22%20OR%20%22riesgos%20de%20la%20inteligencia%20artificial%22%29%20sourcecountry%3AAR&mode=timelinevol&timespan=24months&format=json"
+    }
+   },
+   "AU": {
+    "en_mainstream": {
+     "data": [
+      {
+       "date": "20260930T123000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T124500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T131500Z",
+       "value": 0.04
+      },
+      {
+       "date": "20260930T133000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T134500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T140000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T141500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T143000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T144500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T150000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T151500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T153000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T161500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T163000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T164500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T171500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T173000Z",
+       "value": 0.0587
+      },
+      {
+       "date": "20260930T174500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T180000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T181500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T183000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T184500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T190000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T191500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T193000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T201500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T203000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T204500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T210000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T211500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T213000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T214500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T220000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T221500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T223000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T224500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T230000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T231500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T233000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T000000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T001500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T003000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T004500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T010000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T011500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T013000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T014500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T020000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T021500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T023000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T024500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T030000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T031500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T033000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T034500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T040000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T043000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T044500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T050000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T051500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T053000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T060000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T061500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T063000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T070000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T071500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T073000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T081500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T090000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T091500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T093000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T094500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T100000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T103000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T104500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T110000Z",
+       "value": 0
+      }
+     ],
+     "points": 76,
+     "query": "\"artificial intelligence\" (regulation OR governance OR law) sourcecountry:AS",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22artificial%20intelligence%22%20%28regulation%20OR%20governance%20OR%20law%29%20sourcecountry%3AAS&mode=timelinevol&timespan=24months&format=json"
+    }
+   },
+   "BR": {
+    "pt_mainstream": {
+     "data": [],
+     "points": 0,
+     "query": "\"inteligência artificial\" (regulação OR governança OR lei) sourcecountry:BR",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22intelig%C3%AAncia%20artificial%22%20%28regula%C3%A7%C3%A3o%20OR%20governan%C3%A7a%20OR%20lei%29%20sourcecountry%3ABR&mode=timelinevol&timespan=24months&format=json"
+    }
+   },
+   "CA": {
+    "en_frontier": {
+     "data": [],
+     "points": 0,
+     "query": "(\"AI safety\" OR \"AI risk\" OR \"existential risk\") sourcecountry:CA",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22AI%20safety%22%20OR%20%22AI%20risk%22%20OR%20%22existential%20risk%22%29%20sourcecountry%3ACA&mode=timelinevol&timespan=24months&format=json"
+    },
+    "en_mainstream": {
+     "data": [
+      {
+       "date": "20260930T123000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T124500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T131500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T133000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T134500Z",
+       "value": 0.02
+      },
+      {
+       "date": "20260930T140000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T141500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T143000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T144500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T150000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T151500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T153000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T161500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T163000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T164500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T171500Z",
+       "value": 0.1142
+      },
+      {
+       "date": "20260930T173000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T174500Z",
+       "value": 0.0505
+      },
+      {
+       "date": "20260930T180000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T181500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T183000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T184500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T190000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T191500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T193000Z",
+       "value": 0.1118
+      },
+      {
+       "date": "20260930T201500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T203000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T204500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T210000Z",
+       "value": 0.1504
+      },
+      {
+       "date": "20260930T211500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T213000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T214500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T220000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T221500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T223000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T224500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T230000Z",
+       "value": 0.0437
+      },
+      {
+       "date": "20260930T231500Z",
+       "value": 0.0788
+      },
+      {
+       "date": "20260930T233000Z",
+       "value": 0.0361
+      },
+      {
+       "date": "20261001T000000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T001500Z",
+       "value": 0.0408
+      },
+      {
+       "date": "20261001T003000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T004500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T010000Z",
+       "value": 0.0404
+      },
+      {
+       "date": "20261001T011500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T013000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T014500Z",
+       "value": 0.0461
+      },
+      {
+       "date": "20261001T020000Z",
+       "value": 0.0664
+      },
+      {
+       "date": "20261001T021500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T023000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T024500Z",
+       "value": 0.0434
+      },
+      {
+       "date": "20261001T030000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T031500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T033000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T034500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T040000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T043000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T044500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T050000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T051500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T053000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T060000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T061500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T063000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T070000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T071500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T073000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T081500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T090000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T091500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T093000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T094500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T100000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T103000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T104500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T110000Z",
+       "value": 0.0212
+      }
+     ],
+     "points": 76,
+     "query": "\"artificial intelligence\" (regulation OR governance OR law) sourcecountry:CA",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22artificial%20intelligence%22%20%28regulation%20OR%20governance%20OR%20law%29%20sourcecountry%3ACA&mode=timelinevol&timespan=24months&format=json"
+    },
+    "fr_mainstream": {
+     "data": [],
+     "points": 0,
+     "query": "\"intelligence artificielle\" (réglementation OR gouvernance OR loi) sourcecountry:CA",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22intelligence%20artificielle%22%20%28r%C3%A9glementation%20OR%20gouvernance%20OR%20loi%29%20sourcecountry%3ACA&mode=timelinevol&timespan=24months&format=json"
+    }
+   },
+   "CN": {},
+   "DE": {
+    "de_mainstream": {
+     "data": [],
+     "points": 0,
+     "query": "\"künstliche Intelligenz\" (Regulierung OR Gesetz OR Governance) sourcecountry:GM",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22k%C3%BCnstliche%20Intelligenz%22%20%28Regulierung%20OR%20Gesetz%20OR%20Governance%29%20sourcecountry%3AGM&mode=timelinevol&timespan=24months&format=json"
+    }
+   },
+   "FR": {
+    "fr_frontier": {
+     "data": [],
+     "points": 0,
+     "query": "(\"sécurité de l'intelligence artificielle\" OR \"risques de l'intelligence artificielle\") sourcecountry:FR",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22s%C3%A9curit%C3%A9%20de%20l%27intelligence%20artificielle%22%20OR%20%22risques%20de%20l%27intelligence%20artificielle%22%29%20sourcecountry%3AFR&mode=timelinevol&timespan=24months&format=json"
+    }
+   },
+   "GB": {},
+   "ID": {
+    "id_frontier": {
+     "data": [],
+     "points": 0,
+     "query": "(\"keamanan kecerdasan buatan\" OR \"risiko kecerdasan buatan\") sourcecountry:ID",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22keamanan%20kecerdasan%20buatan%22%20OR%20%22risiko%20kecerdasan%20buatan%22%29%20sourcecountry%3AID&mode=timelinevol&timespan=24months&format=json"
+    }
+   },
+   "IN": {
+    "en_mainstream": {
+     "data": [
+      {
+       "date": "20260930T124500Z",
+       "value": 0.0536
+      },
+      {
+       "date": "20260930T131500Z",
+       "value": 0.0801
+      },
+      {
+       "date": "20260930T133000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T134500Z",
+       "value": 0.0399
+      },
+      {
+       "date": "20260930T140000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T141500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T143000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T144500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T150000Z",
+       "value": 0.0242
+      },
+      {
+       "date": "20260930T151500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T153000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T161500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T163000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T164500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T171500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T173000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T174500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T180000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T181500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T183000Z",
+       "value": 0.0727
+      },
+      {
+       "date": "20260930T184500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T190000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T191500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T193000Z",
+       "value": 0.0559
+      },
+      {
+       "date": "20260930T201500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T203000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T204500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T210000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T211500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T213000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T214500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T220000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T221500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T223000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T224500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T230000Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T231500Z",
+       "value": 0
+      },
+      {
+       "date": "20260930T233000Z",
+       "value": 0.0723
+      },
+      {
+       "date": "20261001T000000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T001500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T003000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T004500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T010000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T011500Z",
+       "value": 0.0509
+      },
+      {
+       "date": "20261001T013000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T014500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T020000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T021500Z",
+       "value": 0.0524
+      },
+      {
+       "date": "20261001T023000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T024500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T030000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T031500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T033000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T034500Z",
+       "value": 0.0426
+      },
+      {
+       "date": "20261001T040000Z",
+       "value": 0.0932
+      },
+      {
+       "date": "20261001T043000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T044500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T050000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T051500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T053000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T060000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T061500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T063000Z",
+       "value": 0.2252
+      },
+      {
+       "date": "20261001T070000Z",
+       "value": 0.0562
+      },
+      {
+       "date": "20261001T071500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T073000Z",
+       "value": 0.4149
+      },
+      {
+       "date": "20261001T081500Z",
+       "value": 0.4525
+      },
+      {
+       "date": "20261001T090000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T091500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T093000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T094500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T100000Z",
+       "value": 0.023
+      },
+      {
+       "date": "20261001T103000Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T104500Z",
+       "value": 0
+      },
+      {
+       "date": "20261001T110000Z",
+       "value": 0.0425
+      }
+     ],
+     "points": 75,
+     "query": "\"artificial intelligence\" (regulation OR governance OR law) sourcecountry:IN",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22artificial%20intelligence%22%20%28regulation%20OR%20governance%20OR%20law%29%20sourcecountry%3AIN&mode=timelinevol&timespan=24months&format=json"
+    }
+   },
+   "IT": {},
+   "JP": {},
+   "KR": {},
+   "MX": {},
+   "RU": {},
+   "SA": {},
+   "TR": {},
+   "US": {},
+   "ZA": {}
+  },
+  "months": 24
+ },
+ "source_name": "gdelt_a1"
+}
