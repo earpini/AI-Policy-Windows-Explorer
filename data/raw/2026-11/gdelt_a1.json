@@ -1,0 +1,102 @@
+{
+ "fetched_url": "multiple (see per-entry urls)",
+ "payload": {
+  "budget_exhausted": true,
+  "countries": {
+   "AR": {
+    "es_frontier": {
+     "data": [],
+     "points": 0,
+     "query": "(\"seguridad de la inteligencia artificial\" OR \"riesgos de la inteligencia artificial\") sourcecountry:AR",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22seguridad%20de%20la%20inteligencia%20artificial%22%20OR%20%22riesgos%20de%20la%20inteligencia%20artificial%22%29%20sourcecountry%3AAR&mode=timelinevol&timespan=24months&format=json"
+    },
+    "es_mainstream": {
+     "data": [],
+     "points": 0,
+     "query": "\"inteligencia artificial\" (regulación OR gobernanza OR ley) sourcecountry:AR",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22inteligencia%20artificial%22%20%28regulaci%C3%B3n%20OR%20gobernanza%20OR%20ley%29%20sourcecountry%3AAR&mode=timelinevol&timespan=24months&format=json"
+    }
+   },
+   "AU": {},
+   "BR": {
+    "pt_mainstream": {
+     "data": [],
+     "points": 0,
+     "query": "\"inteligência artificial\" (regulação OR governança OR lei) sourcecountry:BR",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22intelig%C3%AAncia%20artificial%22%20%28regula%C3%A7%C3%A3o%20OR%20governan%C3%A7a%20OR%20lei%29%20sourcecountry%3ABR&mode=timelinevol&timespan=24months&format=json"
+    }
+   },
+   "CA": {
+    "en_frontier": {
+     "data": [],
+     "points": 0,
+     "query": "(\"AI safety\" OR \"AI risk\" OR \"existential risk\") sourcecountry:CA",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22AI%20safety%22%20OR%20%22AI%20risk%22%20OR%20%22existential%20risk%22%29%20sourcecountry%3ACA&mode=timelinevol&timespan=24months&format=json"
+    },
+    "fr_frontier": {
+     "data": [],
+     "points": 0,
+     "query": "(\"sécurité de l'intelligence artificielle\" OR \"risques de l'intelligence artificielle\") sourcecountry:CA",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22s%C3%A9curit%C3%A9%20de%20l%27intelligence%20artificielle%22%20OR%20%22risques%20de%20l%27intelligence%20artificielle%22%29%20sourcecountry%3ACA&mode=timelinevol&timespan=24months&format=json"
+    }
+   },
+   "CN": {},
+   "DE": {
+    "de_frontier": {
+     "data": [],
+     "points": 0,
+     "query": "(\"KI-Sicherheit\" OR \"Risiken künstlicher Intelligenz\") sourcecountry:GM",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22KI-Sicherheit%22%20OR%20%22Risiken%20k%C3%BCnstlicher%20Intelligenz%22%29%20sourcecountry%3AGM&mode=timelinevol&timespan=24months&format=json"
+    },
+    "de_mainstream": {
+     "data": [],
+     "points": 0,
+     "query": "\"künstliche Intelligenz\" (Regulierung OR Gesetz OR Governance) sourcecountry:GM",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22k%C3%BCnstliche%20Intelligenz%22%20%28Regulierung%20OR%20Gesetz%20OR%20Governance%29%20sourcecountry%3AGM&mode=timelinevol&timespan=24months&format=json"
+    }
+   },
+   "FR": {
+    "fr_frontier": {
+     "data": [],
+     "points": 0,
+     "query": "(\"sécurité de l'intelligence artificielle\" OR \"risques de l'intelligence artificielle\") sourcecountry:FR",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22s%C3%A9curit%C3%A9%20de%20l%27intelligence%20artificielle%22%20OR%20%22risques%20de%20l%27intelligence%20artificielle%22%29%20sourcecountry%3AFR&mode=timelinevol&timespan=24months&format=json"
+    },
+    "fr_mainstream": {
+     "data": [],
+     "points": 0,
+     "query": "\"intelligence artificielle\" (réglementation OR gouvernance OR loi) sourcecountry:FR",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22intelligence%20artificielle%22%20%28r%C3%A9glementation%20OR%20gouvernance%20OR%20loi%29%20sourcecountry%3AFR&mode=timelinevol&timespan=24months&format=json"
+    }
+   },
+   "GB": {},
+   "ID": {
+    "id_frontier": {
+     "data": [],
+     "points": 0,
+     "query": "(\"keamanan kecerdasan buatan\" OR \"risiko kecerdasan buatan\") sourcecountry:ID",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22keamanan%20kecerdasan%20buatan%22%20OR%20%22risiko%20kecerdasan%20buatan%22%29%20sourcecountry%3AID&mode=timelinevol&timespan=24months&format=json"
+    }
+   },
+   "IN": {},
+   "IT": {
+    "it_frontier": {
+     "data": [],
+     "points": 0,
+     "query": "(\"sicurezza dell'intelligenza artificiale\" OR \"rischi dell'intelligenza artificiale\") sourcecountry:IT",
+     "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22sicurezza%20dell%27intelligenza%20artificiale%22%20OR%20%22rischi%20dell%27intelligenza%20artificiale%22%29%20sourcecountry%3AIT&mode=timelinevol&timespan=24months&format=json"
+    }
+   },
+   "JP": {},
+   "KR": {},
+   "MX": {},
+   "RU": {},
+   "SA": {},
+   "TR": {},
+   "US": {},
+   "ZA": {}
+  },
+  "months": 24
+ },
+ "source_name": "gdelt_a1"
+}
